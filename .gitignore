@@ -1,0 +1,13 @@
+# Folders
+
+/.vs/
+/Library/
+/Logs/
+/obj/
+/Packages/
+/ProjectSettings/
+/Assets/Plugins/
+
+# Files
+*.meta
+*.sln
